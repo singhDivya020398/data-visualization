@@ -1,0 +1,54 @@
+
+[
+  {
+    "Alcohol": 1,
+    "Flavanoids": 2.48
+    
+  },
+  {
+    "Alcohol": 1,
+    "Flavanoids": 12.48
+    
+  },
+  {
+    "Alcohol": 2,
+    "Flavanoids": 92.48
+
+  },
+
+  {
+    "Alcohol": 3,
+    "Flavanoids": 82.48
+  
+  },
+  {
+    "Alcohol": 3,
+    "Flavanoids": 62.48
+  
+  },
+  {
+    "Alcohol": 3,
+    "Flavanoids": 32.48
+  
+  },
+  {
+    "Alcohol": 4,
+    "Flavanoids": 2.48
+  
+  },
+  {
+    "Alcohol": 4,
+    "Flavanoids": 72.48
+  
+  },
+  {
+    "Alcohol": 4,
+    "Flavanoids":42.48
+  
+  },
+  {
+    "Alcohol": 4,
+    "Flavanoids": 32.48
+  
+  }
+]
